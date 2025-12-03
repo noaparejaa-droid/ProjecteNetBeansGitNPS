@@ -14,7 +14,7 @@ public class ProjecteNetBeansGitNPS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Primera modificació per al commit 2"); // TODO code application logic here
+        // TODO code application logic here
     }
     
 }
