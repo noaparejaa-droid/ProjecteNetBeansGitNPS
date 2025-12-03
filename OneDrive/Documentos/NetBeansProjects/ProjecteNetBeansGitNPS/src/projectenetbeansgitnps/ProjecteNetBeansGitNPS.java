@@ -14,7 +14,9 @@ public class ProjecteNetBeansGitNPS {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Codi de la nova branca");
+       System.out.println("Línia DEVELOP");
+
+
 
  // TODO code application logic here
     }
